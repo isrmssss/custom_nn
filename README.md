@@ -1,6 +1,5 @@
 # Custom Neural Network Library / Пользовательская нейросетевая библиотека
-
-![Neural Network](https://raw.githubusercontent.com/isrmssss/custom_nn/main/assets/nn_demo.png)  
+ 
 *Пример работы сети на датасете make_moons / Example of network on make_moons dataset*
 
 ---
